@@ -48,7 +48,7 @@ This repository contains two key components for a system designed to analyze soc
 
 - **Chatbot Interface**: The Gradio-based chatbot interface allows users to ask questions and get detailed responses based on indexed knowledge from social media.
   
-![SMEDIS Web Interface](/mnt/data/file-iquvIiEm9b1SFHtx6l4E3IOf)
+![SMEDIS Web Interface](https://i.postimg.cc/0yQVHn3W/Web-Interface.png)
 
 ## Usage
 
