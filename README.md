@@ -41,14 +41,13 @@ This repository contains two key components for a system designed to analyze soc
 
 ## Visualizations
 
-- **Drug-Specific Graphs**: Graphs showing relationships between drugs (e.g., Rinvoq, Upadacitinib) and their side effects are visualized using NetworkX and matplotlib.
-  
-![Rinvoq Graph](https://i.postimg.cc/ZqvVJRJ6/Rinvoq.png)
-![Upadacitinib Graph](https://i.postimg.cc/1tpBNjnt/Upadacitinib.png)
+- **Drug-Specific Graphs**: he following graphs show relationships between drugs (e.g., Rinvoq, Upadacitinib) and their side effects. The graphs are visualized using NetworkX and matplotlib.
+
+<p align="center"> <img src="https://i.postimg.cc/ZqvVJRJ6/Rinvoq.png" alt="Rinvoq Graph" width="400"/> <img src="https://i.postimg.cc/1tpBNjnt/Upadacitinib.png" alt="Upadacitinib Graph" width="400"/> </p>
 
 - **Chatbot Interface**: The Gradio-based chatbot interface allows users to ask questions and get detailed responses based on indexed knowledge from social media.
-  
-![SMEDIS Web Interface](https://i.postimg.cc/0yQVHn3W/Web-Interface.png)
+
+<p align="center"> <img src="https://i.postimg.cc/0yQVHn3W/Web-Interface.png" alt="SMEDIS Web Interface" width="500"/> </p>
 
 ## Usage
 
