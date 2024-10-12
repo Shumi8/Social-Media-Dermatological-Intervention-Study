@@ -43,8 +43,8 @@ This repository contains two key components for a system designed to analyze soc
 
 - **Drug-Specific Graphs**: Graphs showing relationships between drugs (e.g., Rinvoq, Upadacitinib) and their side effects are visualized using NetworkX and matplotlib.
   
-![Rinvoq Graph](/mnt/data/file-n35jmgUtcTSLvwl0x4qSDPny)
-![Upadacitinib Graph](/mnt/data/file-KaCRfdOqIZbbDfrf7E0RMFl3)
+![Rinvoq Graph](https://i.postimg.cc/ZqvVJRJ6/Rinvoq.png)
+![Upadacitinib Graph](https://i.postimg.cc/1tpBNjnt/Upadacitinib.png)
 
 - **Chatbot Interface**: The Gradio-based chatbot interface allows users to ask questions and get detailed responses based on indexed knowledge from social media.
   
