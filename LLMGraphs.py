@@ -13,10 +13,10 @@ import pandas as pd
 
 drive.mount('/content/drive')
 
-comments_sample = pd.read_csv('/content/drive/MyDrive/SMEDIS/Full_Reddit_Data.csv')
+comments_sample = pd.read_csv('')
 
-OPENAI_API_KEY = ''
-llm = ChatOpenAI(model="gpt-3.5-turbo", openai_api_key=OPENAI_API_KEY)
+API_KEY = ''
+llm = ChatOpenAI(model="gpt-3.5-turbo", api_key=API_KEY)
 
 # Preprocessing: Fill NaN values and ensure all entries are strings
 comments_sample['Comment Body'] = comments_sample['Comment Body'].fillna('')
